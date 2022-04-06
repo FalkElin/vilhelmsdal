@@ -1,2 +1,55 @@
 @media (max-width: 768px) {
+  .page-one {
+    background-position: right 0rem bottom 55rem;
+  }
+
+  .text-segment-page-two h1 {
+    line-height: 4rem;
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+  }
+
+  .text-segment-page-two {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    color: rgb(238, 238, 238);
+    color: #0f3d66;
+    margin-top: 6rem;
+  }
+
+  .öppettider {
+    flex-direction: column;
+  }
+
+  .ordinarie-öppettider {
+    margin: 0.5rem;
+  }
+  .ordinarie-öppettider h2 {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+
+  .helgtider {
+    margin: 0.5rem;
+  }
+
+  .öppettider ul li {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+  }
+  .helgtider h2 {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+
+  .slogan-page-two {
+    font-size: 2.5rem;
+    margin-top: 4rem;
+  }
+
+  .slogan-page-two img {
+    height: 1.5rem;
+    padding-left: 1rem;
+  }
 }

@@ -18,14 +18,13 @@
   }
 
   .page-one {
-    background-image: url(/bilder/osten.jpeg);
     background-position: right 0rem bottom 100rem;
     background-size: cover;
     display: flex;
   }
 
   .text-segment-page-one {
-    height: 25rem;
+    height: 15rem;
   }
 
   .text-segment-page-one img {

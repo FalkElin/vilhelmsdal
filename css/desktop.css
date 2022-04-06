@@ -5,7 +5,6 @@
   }
 
   .page-one {
-    background-image: url(/bilder/osten.jpeg);
     background-position: right 0rem bottom 70rem;
     background-size: cover;
     display: flex;
