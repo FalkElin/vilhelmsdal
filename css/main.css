@@ -13,6 +13,7 @@ html {
 
 body {
   overflow-x: hidden;
+  overflow-y: auto;
   font-family: "Spartan", sans-serif;
   height: 100%;
   background-color: #ffffff;
