@@ -15,4 +15,29 @@
   .page-one {
     background-position: right 0rem bottom 60rem;
   }
+
+  .adress-info {
+    margin-top: 7rem;
+    font-weight: lighter;
+    font-size: 1rem;
+  }
+
+  .adress-info p {
+    margin: 1rem;
+  }
+  .adress-info a::after {
+    color: rgb(131, 83, 39);
+  }
+
+  .adress-info a {
+    color: #326649;
+  }
+
+  .adress-info a:hover {
+    color: rgb(0, 100, 231);
+  }
+
+  .adress-info img {
+    height: 2rem;
+  }
 }

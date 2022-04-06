@@ -170,7 +170,30 @@ body {
   margin-top: 6rem;
   padding: 1rem;
 }
+.adress-info {
+  margin-top: 7rem;
+  font-weight: lighter;
+  font-size: 1.5rem;
+}
 
+.adress-info p {
+  margin: 1.5rem;
+}
+.adress-info a::after {
+  color: rgb(131, 83, 39);
+}
+
+.adress-info a {
+  color: #326649;
+}
+
+.adress-info a:hover {
+  color: rgb(0, 100, 231);
+}
+
+.adress-info img {
+  height: 2rem;
+}
 .ordinarie-öppettider {
   margin: 4rem;
 }
