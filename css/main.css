@@ -21,6 +21,7 @@ body {
 
 .pages {
   min-height: 100vh;
+  overflow-x: hidden;
 }
 
 /* REUSABLE STYLES BELOW*/
@@ -128,7 +129,7 @@ body {
 
 .page-one {
   background-image: url(https://falkelin.github.io/vilhelmsdal/bilder/osten.jpg);
-  background-position: left 0rem right 0rem bottom 100rem;
+  background-position: right 0rem bottom 100rem;
   background-size: cover;
   display: flex;
 }
@@ -172,7 +173,7 @@ body {
   padding: 1rem;
 }
 .adress-info {
-  margin-top: 5rem;
+  margin-top: 4rem;
   font-weight: lighter;
   font-size: 1.5rem;
 }
