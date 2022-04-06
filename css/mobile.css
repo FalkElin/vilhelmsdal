@@ -1,0 +1,114 @@
+@media (max-width: 480px) {
+  .header ul li {
+    margin: 0.5rem;
+    font-size: 1.2rem;
+  }
+
+  .logo {
+    height: 4rem;
+    margin: 1rem;
+  }
+
+  .slogan {
+    font-size: 1rem;
+  }
+
+  .info-box-page-one {
+    font-size: 9rem;
+  }
+
+  .text-segment-page-one {
+    height: 25rem;
+  }
+
+  .text-segment-page-one img {
+    height: 10rem;
+  }
+
+  /* page two below */
+  .text-segment-page-two h1 {
+    line-height: 4rem;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .text-segment-page-two {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    color: rgb(238, 238, 238);
+    color: #0f3d66;
+    margin-top: 6rem;
+  }
+
+  .öppettider {
+    flex-direction: column;
+  }
+
+  .ordinarie-öppettider {
+    margin: 0.5rem;
+  }
+  .ordinarie-öppettider h2 {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+
+  .helgtider {
+    margin: 0.5rem;
+  }
+
+  .öppettider ul li {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+  }
+  .helgtider h2 {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+
+  .slogan-page-two {
+    font-size: 2.5rem;
+    margin-top: 4rem;
+  }
+
+  .slogan-page-two img {
+    height: 2.2rem;
+    padding-left: 1rem;
+  }
+
+  /* PAGE THREE BELOW */
+
+  .text-segment-page-three {
+    width: 100%;
+    align-items: center;
+    color: #0f3d66;
+    margin-top: 3rem;
+  }
+  .text-segment-page-three h1 {
+    font-size: 1rem;
+  }
+
+  .om-oss {
+    width: 90%;
+    margin-top: 1rem;
+  }
+
+  .bilder {
+    margin: 1rem;
+    flex-direction: column;
+  }
+  .bilder img {
+    height: 15rem;
+    margin: 0.2rem;
+    border-radius: 0.2rem;
+  }
+
+  .om-oss p {
+    margin: 1rem;
+  }
+
+  .hidden-scroll-div {
+    top: 0;
+    height: 10%;
+  }
+}
