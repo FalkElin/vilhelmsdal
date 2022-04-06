@@ -127,7 +127,7 @@ body {
 /* PAGE ONE BELOW*/
 
 .page-one {
-  background-image: url(/bilder/osten.jpeg);
+  background-image: url("/bilder/osten.jpg");
   background-position: right 0rem bottom 100rem;
   background-size: cover;
   display: flex;
