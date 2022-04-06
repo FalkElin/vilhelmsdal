@@ -1,7 +1,14 @@
-@media (max-width: 480px) {
+@media (max-width: 1200px) {
   .header ul li {
     margin: 0.5rem;
     font-size: 1rem;
+  }
+
+  .page-one {
+    background-image: url(/bilder/osten.jpeg);
+    background-position: right 0rem bottom 70rem;
+    background-size: cover;
+    display: flex;
   }
 
   .logo {
@@ -13,31 +20,15 @@
     font-size: 1rem;
   }
 
-  .info-box-page-one {
-    font-size: 9rem;
-  }
-
-  .page-one {
-    background-image: url(/bilder/osten.jpeg);
-    background-position: right 0rem bottom 100rem;
-    background-size: cover;
-    display: flex;
-  }
-
   .text-segment-page-one {
     height: 25rem;
   }
 
   .text-segment-page-one img {
-    height: 10rem;
+    height: 12rem;
   }
 
   /* page two below */
-  .text-segment-page-two h1 {
-    line-height: 4rem;
-    font-size: 1.5rem;
-    margin-bottom: 2rem;
-  }
 
   .text-segment-page-two {
     width: 100%;
@@ -48,12 +39,12 @@
     margin-top: 6rem;
   }
 
-  .öppettider {
-    flex-direction: column;
+  .text-segment-page-two h1 {
+    font-size: 2rem;
   }
 
   .ordinarie-öppettider {
-    margin: 0.5rem;
+    margin: 2rem;
   }
   .ordinarie-öppettider h2 {
     margin-bottom: 1rem;
@@ -61,7 +52,7 @@
   }
 
   .helgtider {
-    margin: 0.5rem;
+    margin: 2rem;
   }
 
   .öppettider ul li {
@@ -87,25 +78,24 @@
 
   .text-segment-page-three {
     width: 100%;
-    align-items: center;
+    justify-content: center;
     color: #0f3d66;
-    margin-top: 3rem;
+    margin-top: 5rem;
   }
   .text-segment-page-three h1 {
     font-size: 1rem;
   }
 
   .om-oss {
-    width: 90%;
+    width: 80%;
     margin-top: 1rem;
   }
 
   .bilder {
     margin: 1rem;
-    flex-direction: column;
   }
   .bilder img {
-    height: 15rem;
+    height: 20rem;
     margin: 0.2rem;
     border-radius: 0.2rem;
   }
