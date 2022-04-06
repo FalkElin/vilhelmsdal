@@ -17,6 +17,9 @@
     color: #0f3d66;
     margin-top: 6rem;
   }
+  .pages {
+    min-height: 55rem;
+  }
 
   .öppettider {
     flex-direction: column;
