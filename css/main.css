@@ -13,15 +13,15 @@ html {
 
 body {
   overflow-x: hidden;
-  overflow-y: auto;
+  overflow-y: visible;
   font-family: "Spartan", sans-serif;
   height: 100%;
   background-color: #ffffff;
+  min-height: -webkit-fill-available;
 }
 
 .pages {
-  min-height: 100vh;
-  overflow-x: hidden;
+  min-height: 60rem;
 }
 
 /* REUSABLE STYLES BELOW*/
