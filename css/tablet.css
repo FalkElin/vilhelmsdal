@@ -1,8 +1,4 @@
 @media (max-width: 768px) {
-  .page-one {
-    background-position: right 0rem bottom 50rem;
-  }
-
   .text-segment-page-two h1 {
     line-height: 4rem;
     font-size: 1.3rem;

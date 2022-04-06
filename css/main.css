@@ -129,7 +129,7 @@ body {
 
 .page-one {
   background-image: url(https://falkelin.github.io/vilhelmsdal/bilder/osten.jpg);
-  background-position: right 0rem bottom 100rem;
+  background-position: center;
   background-size: cover;
   display: flex;
 }

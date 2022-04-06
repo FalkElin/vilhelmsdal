@@ -18,7 +18,7 @@
   }
 
   .pages {
-    min-height: 40rem;
+    min-height: 50rem;
   }
 
   .page-one {
@@ -36,14 +36,16 @@
 
   /* page two below */
   .text-segment-page-two h1 {
-    line-height: 0rem;
     font-size: 1.5rem;
     margin-bottom: 2rem;
+    justify-self: center;
+    align-self: center;
   }
 
   .text-segment-page-two {
     width: 100%;
     align-items: center;
+    text-align: center;
     justify-content: center;
     color: rgb(238, 238, 238);
     color: #0f3d66;
@@ -111,7 +113,7 @@
     flex-direction: column;
   }
   .bilder img {
-    height: 15rem;
+    height: 11rem;
     margin: 0.2rem;
     border-radius: 0.2rem;
   }
