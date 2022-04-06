@@ -128,7 +128,7 @@ body {
 
 .page-one {
   background-image: url(https://falkelin.github.io/vilhelmsdal/bilder/osten.jpg);
-  background-position: right 0rem bottom 100rem;
+  background-position: left 0rem right 0rem bottom 100rem;
   background-size: cover;
   display: flex;
 }
@@ -157,6 +157,7 @@ body {
 
 .text-segment-page-one img {
   height: 17rem;
+  margin-bottom: 1rem;
 }
 
 /* PAGE TWO BELOW*/
@@ -171,7 +172,7 @@ body {
   padding: 1rem;
 }
 .adress-info {
-  margin-top: 7rem;
+  margin-top: 5rem;
   font-weight: lighter;
   font-size: 1.5rem;
 }
